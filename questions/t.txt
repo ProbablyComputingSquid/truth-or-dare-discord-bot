@@ -1,2 +1,132 @@
-What was your last dream
-What is your favorite food
+PG | What was your last dream?
+PG | What is your favorite food?
+What is the most embarrassing thing you've ever done?
+Have you ever had a crush on someone in this room?
+What is the biggest lie you've ever told?
+Have you ever cheated on a test or exam?
+What is the most awkward date you've ever been on?
+Have you ever had a secret relationship?
+What is the weirdest thing you've ever eaten?
+Have you ever lied to get out of trouble?
+What is your biggest fear?
+Have you ever stolen something?
+If you could switch lives with anyone for a day, who would it be?
+What is your most embarrassing childhood memory?
+What is the most childish thing you still do?
+Have you ever pretended to like a gift you hated?
+What is something you’ve never told anyone before?
+Have you ever had a crush on a teacher?
+What is the worst lie you’ve ever been caught in?
+Have you ever broken something and blamed someone else?
+Who is the last person you stalked on social media?
+Have you ever laughed at an inappropriate moment?
+What is the weirdest thing you do when you're alone?
+Have you ever eavesdropped on a conversation?
+What is something embarrassing you’ve searched online?
+What is your most unusual talent?
+Have you ever read someone else’s messages without them knowing?
+What is the worst thing you’ve ever said to someone?
+Have you ever been rejected by someone you liked?
+What is the most embarrassing thing you’ve posted on social media?
+Have you ever lied about your age?
+What is the worst rumor you’ve heard about yourself?
+Have you ever accidentally sent a message to the wrong person?
+If you had to get a tattoo right now, what would it be?
+What is the most embarrassing thing you've worn in public?
+Have you ever had a dream about someone in this room?
+What is your biggest insecurity?
+What is the most money you’ve ever wasted on something silly?
+Have you ever told a secret you weren’t supposed to share?
+What is the most embarrassing thing you've done in front of a crush?
+Have you ever faked being sick to skip school or work?
+Who do you think is the most attractive person in this room?
+What is the worst grade you’ve ever gotten?
+Have you ever been caught talking to yourself?
+What is the most embarrassing thing that has happened to you at school?
+Have you ever gone through someone else’s phone?
+What is the last thing you searched on your phone?
+Have you ever tried to impress someone but failed miserably?
+What is the strangest dream you've ever had?
+What is the worst gift you've ever received?
+Have you ever cried during a movie?
+What is something you’ve done that you still regret?
+Have you ever sent a text you immediately regretted?
+What is the biggest misconception people have about you?
+Have you ever been caught lying?
+What is the longest you’ve gone without showering?
+What is the most ridiculous thing you’ve ever bought?
+Have you ever been caught sneaking out?
+What is the worst thing you've ever smelled?
+Have you ever had an imaginary friend?
+What is the weirdest thing you've done out of boredom?
+Have you ever been caught doing something embarrassing in public?
+What is the strangest thing you've overheard?
+What is the worst thing you've ever said in anger?
+What is a secret you’ve kept from your best friend?
+Have you ever blamed something on someone else to avoid trouble?
+What is your worst habit?
+What is the worst punishment you've ever received?
+Have you ever laughed so hard you peed yourself?
+What is the most awkward text you've ever sent?
+What is the cringiest thing you've ever done?
+Have you ever accidentally liked an old post while stalking someone?
+What is the most embarrassing nickname you've ever had?
+Have you ever talked behind a friend's back?
+What is the weirdest thing you’ve done for attention?
+What is the dumbest thing you’ve ever believed?
+What is the most embarrassing song on your playlist?
+Have you ever had a paranormal experience?
+What is the worst thing you've done in a fit of jealousy?
+Have you ever been caught dancing in front of a mirror?
+What is the worst fashion mistake you've ever made?
+What is the silliest thing you’ve argued about?
+What is the most embarrassing autocorrect fail you've had?
+What is the most awkward conversation you've ever had?
+What is the weirdest thing you've Googled?
+What is the most embarrassing thing you’ve done at work?
+What is the worst piece of advice you've ever followed?
+What is the strangest thing you’ve ever collected?
+What is the worst thing you've done on a dare?
+Have you ever been embarrassed by your own parents?
+What is the funniest thing you've overheard?
+What is your worst social media fail?
+Have you ever been caught singing in the shower?
+What is your most irrational fear?
+What is the weirdest way you've ever met someone?
+What is the most embarrassing thing you've done while drunk?
+What is the biggest risk you've ever taken?
+What is the worst compliment you’ve ever received?
+Have you ever given a fake number to someone?
+What is the worst thing you’ve ever texted to the wrong person?
+What is the weirdest way you've injured yourself?
+What is the most embarrassing thing you've done in a store?
+Have you ever been stood up on a date?
+What is the worst food combination you've ever tried?
+What is the most awkward thing you've said to a crush?
+What is the most embarrassing thing you've done in an elevator?
+What is the weirdest thing you've ever done for money?
+What is the most embarrassing thing you’ve said to your boss?
+Have you ever had a crush on a fictional character?
+What is the worst thing you've ever done in public?
+Have you ever cried over a celebrity?
+What is the worst assumption someone has made about you?
+Have you ever been caught sneaking a snack?
+What is the dumbest thing you've done out of curiosity?
+What is your most embarrassing talent?
+Have you ever walked into something because you were distracted?
+What is the most embarrassing thing you've done in a car?
+What is the weirdest thing you’ve ever done on a video call?
+What is the funniest prank you've ever played on someone?
+What is the most embarrassing ringtone you've ever had?
+What is the worst lie you've told to avoid plans?
+Have you ever eaten something off the floor?
+What is the most ridiculous fear you have?
+Have you ever gotten stuck somewhere embarrassing?
+What is the most embarrassing thing you've worn to sleep?
+What is the weirdest text you've ever received?
+What is the strangest superstition you believe in?
+Have you ever copied someone else's homework?
+What is the most awkward mistake you've made in a text message?
+What is the most embarrassing thing you’ve done at a wedding?
+What is the weirdest thing you’ve ever whispered to yourself?
+What is the most embarrassing thing you've ever said to a stranger?
