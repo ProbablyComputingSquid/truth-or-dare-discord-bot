@@ -1,5 +1,5 @@
 import discord
-from discord import app_commands
+from discord import app_commands, ext
 from discord.ui import Button, View
 import os
 from random import randint
@@ -132,13 +132,34 @@ async def credits(interaction):
     
     await interaction.response.send_message(embed=embed)
 
+@app_commands.choices(type=[
+    app_commands.Choice(name="Truth", value=0),
+    app_commands.Choice(name="Dare", value=1),
+    #app_commands.Choice(name="Random", value=2),
+])
+
 @tree.command(
     name="addquestion",
     description="add a truth or dare to the questions list (admins only)",
     guild=discord.Object(id=GUILD),
 )
-async def addQuestion(interaction):
-    pass
+
+async def addQuestion(interaction, type: app_commands.Choice[int], question: str):
+    #await interaction.response.send_message(f"You selected {type.name} for a value of {type.value}")
+    if question.strip() == "":
+        await interaction.response.send_message("You can't add an empty question!")
+        return
+    if interaction.user.guild_permissions.administrator:
+        if type.value == 0:
+            with open("questions/t.txt", "a") as f:
+                f.write("\n" + question)
+        elif type.value == 1:
+            with open("questions/d.txt", "a") as f:
+                f.write("\n" + question)
+        await interaction.response.send_message(f"Successfully added {type.name} `{question}` to the {type.name}s list.")
+    else:
+        await interaction.response.send_message("You aren't an administrator, you can't add questions!")
+
 @client.event
 async def on_ready():
     await tree.sync(guild=discord.Object(id=GUILD))
