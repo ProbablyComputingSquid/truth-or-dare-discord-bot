@@ -117,8 +117,28 @@ async def randomQuestion(interaction):
         await truthQuestion.callback(interaction)
     else:
         await dareQuestion.callback(interaction)
+@tree.command(
+    name="credits",
+    description="Get the credits for this bot",
+    guild=discord.Object(id=GUILD),
+)
+async def credits(interaction):
+    description = """
+    This was a remake of the classic Truth or Dare bot that is widespread accross the discord platform. I attempted to remake it in discord.py with added customizability and transparency.
+    Truth or Dare 2 - Electric Boogaloo was created in part for Hack Club's High Seas initiative, and is hosted on Hack Club's nest service.
+    Made with discord.py, sweat, and tears by <@697889258215702588>
+    """
+    embed = discord.Embed(title="Credits | Truth or Dare 2 - Electric Boogaloo", description=description)
+    
+    await interaction.response.send_message(embed=embed)
 
-        
+@tree.command(
+    name="addquestion",
+    description="add a truth or dare to the questions list (admins only)",
+    guild=discord.Object(id=GUILD),
+)
+async def addQuestion(interaction):
+    pass
 @client.event
 async def on_ready():
     await tree.sync(guild=discord.Object(id=GUILD))
