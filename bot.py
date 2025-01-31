@@ -47,7 +47,6 @@ async def ping(interaction):
 )
 async def profile(interaction):
     User = await client.fetch_user(int(interaction.user.id))
-    #print(User.avatar)
     await interaction.response.send_message(User.avatar)
 
 class EmbedButtons(View):
@@ -124,7 +123,8 @@ async def randomQuestion(interaction):
 )
 async def credits(interaction):
     description = """
-    This was a remake of the classic Truth or Dare bot that is widespread accross the discord platform. I attempted to remake it in discord.py with added customizability and transparency.
+    This was a remake of the classic Truth or Dare bot that is widespread accross the discord platform. I attempted to remake it in discord.py with added customizability and transparency. 
+    No longer will there be paywalls, open access forever!
     Truth or Dare 2 - Electric Boogaloo was created in part for Hack Club's High Seas initiative, and is hosted on Hack Club's nest service.
     Made with discord.py, sweat, and tears by <@697889258215702588>
     """
@@ -135,17 +135,15 @@ async def credits(interaction):
 @app_commands.choices(type=[
     app_commands.Choice(name="Truth", value=0),
     app_commands.Choice(name="Dare", value=1),
-    #app_commands.Choice(name="Random", value=2),
 ])
 
 @tree.command(
-    name="addquestion",
+    name="add",
     description="add a truth or dare to the questions list (admins only)",
     guild=discord.Object(id=GUILD),
 )
 
 async def addQuestion(interaction, type: app_commands.Choice[int], question: str):
-    #await interaction.response.send_message(f"You selected {type.name} for a value of {type.value}")
     if question.strip() == "":
         await interaction.response.send_message("You can't add an empty question!")
         return
