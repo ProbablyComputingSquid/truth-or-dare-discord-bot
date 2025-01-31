@@ -1,8 +1,8 @@
 # Truth or Dare 2 - electric boogaloo
-
+<img src="https://cloud-hpph21xd2-hack-club-bot.vercel.app/0image.png">
 <a href="https://discord.com/oauth2/authorize?client_id=1332008265189429290&permissions=2147535936&integration_type=0&scope=bot"><button style>Invite me to your server</button></a>
 
-This discord bot was made as an adaption of the popular game "Truth or Dare". Having trouble thinking of some good questions? Just invite this bot to your discord server and you can have some fun with your online friends. There exist other bots out there, but the majority of customizations are locked behind paywalls, which I set out to fix. It isn't perfect, but it's something. 
+This discord bot was made as an adaption of the popular game "Truth or Dare". Having trouble thinking of some good questions? Just invite this bot to your discord server and you can have some fun with your online friends. The bot has a few hundred of truths and dares each. There exist other bots out there, but the majority of customizations are locked behind paywalls, which I set out to fix. It isn't perfect, but it's something. 
 
 ### Running it yourself?
 - Grab your bot token from the discord bot portal, and place it in .env.example, and rename it to .env
